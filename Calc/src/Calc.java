@@ -131,9 +131,9 @@ public class Calc {
 			public void actionPerformed(ActionEvent e) {
 				double a = Double.parseDouble(textField.getText());
 				double fact = 1;
-				while(a!=0)
+				while(a!=1)
 				{
-					fact+=fact*a;
+					fact =fact*a;
 					a--;
 				}
 				textField.setText("");
@@ -358,7 +358,7 @@ public class Calc {
 					textField.setText(answer);
 				}
 				else if(operation=="%") {   //modulo
-					result = first + second;
+					result = first % second;
 					answer = String.format("%.2f",result);
 					textField.setText(answer);
 				}
