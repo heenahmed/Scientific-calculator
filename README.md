@@ -11,9 +11,10 @@
   In OFF state the buttons become unfunctional and cannot be clicked or used.
   the user has to switch to ON state to use it.
   
-  ![OFF state Image Preview](/Images/offimg.png)
-
-  ![ON state Image Preview](/Images/onimg.png)
+  ![OFF state Image Preview](Images/offimg.PNG)
+  
+  
+  ![ON state Image Preview](Images/onimg.PNG)  
 
 Operations | Symbol
 ---------- | ------
