@@ -16,6 +16,8 @@
   
   ![ON state Image Preview](Images/onimg.PNG)  
 
+## Operations available in calculator
+
 Operations | Symbol
 ---------- | ------
   square root | √ 
